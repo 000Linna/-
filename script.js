@@ -28,8 +28,19 @@ y = Boolean(y)
 console.log(`x = ${x}`)
 console.log(`y = ${y}`)
 
-alert("hello")
-let result = prompt("how old are you", 14);
-console.log(result);
-let boss = confirm("ты здесь главный")
-console.log(istboss)
+// alert("hello")
+// let result = prompt("how old are you", 14);
+// console.log(result);
+// let boss = confirm("ты здесь главный")
+// console.log(istboss)
+let nam1;
+nam1 = +prompt('выведете первое число');
+console.log(nam1)
+
+// // дз 2
+// let str = "10";
+// let str2 = "20.5";
+// let str3 = "30.25px";
+// console.log(parseInt(str2));
+// console.log(Number(str));
+// console.log(parseFloat(str3));
